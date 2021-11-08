@@ -1,0 +1,7 @@
+The Moonstone,1868,Wilkie Collins
+Dracula,1897,Bram Stoker
+Kim,1901,Rudyard Kipling
+The Good Soldier,1915,Ford Madox
+Ulysses,1922,James Joyce
+Mrs Dalloway,1925,Virginia Woolf
+Scoop,1938,Evelyn Waugh
